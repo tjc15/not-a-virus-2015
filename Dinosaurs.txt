@@ -7,3 +7,4 @@ Contained in this directory are:
 
 Velociraptor
 Brontosaurus
+Hadrosaurs
