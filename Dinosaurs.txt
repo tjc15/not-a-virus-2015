@@ -1,2 +1,7 @@
 Dinosaur facts
 ===============
+
+This is a list of majestic dinosaur facts.
+
+Contained in this directory are:
+
