@@ -8,3 +8,5 @@ Contained in this directory are:
 Velociraptor
 Brontosaurus
 Hadrosaurs
+
+Goodbye Dippy, hello Blue Whale!
